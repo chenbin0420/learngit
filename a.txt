@@ -2,4 +2,8 @@
 
 qazwsx
 edc
+<<<<<<< HEAD
 rdv
+=======
+rfv
+>>>>>>> feature1
