@@ -9,3 +9,4 @@ rfv
 >>>>>>> feature1
 seven
 resolve conflict
+feature2
