@@ -1,12 +1,7 @@
-
-
 qazwsx
 edc
-<<<<<<< HEAD
 rdv
-=======
 rfv
->>>>>>> feature1
 seven
 resolve conflict
 <<<<<<< HEAD
@@ -14,3 +9,4 @@ master make programmer
 =======
 feature2
 >>>>>>> feature2
+master add content
