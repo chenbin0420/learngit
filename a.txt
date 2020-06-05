@@ -14,4 +14,8 @@ master add content
 =======
 master-2
 >>>>>>> feature3
+<<<<<<< HEAD
 master add 1 conflict
+=======
+dev add 1
+>>>>>>> dev
