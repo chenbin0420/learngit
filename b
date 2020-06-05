@@ -1,3 +1,4 @@
+issue4 fixed bug
 first content
 merge fast forward
 merge --no-ff
