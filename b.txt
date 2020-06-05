@@ -1,3 +1,4 @@
 first
 second file
 dev merge --no-ff
+dev fast forward
