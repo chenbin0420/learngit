@@ -9,4 +9,8 @@ master make programmer
 =======
 feature2
 >>>>>>> feature2
+<<<<<<< HEAD
 master add content
+=======
+master-2
+>>>>>>> feature3
