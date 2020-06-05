@@ -1,3 +1,4 @@
+issue fixed bug
 first
 second file
 <<<<<<< HEAD
