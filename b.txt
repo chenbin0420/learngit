@@ -1,3 +1,7 @@
 first
 second file
+<<<<<<< HEAD
 master merge --no-ff
+=======
+dev merge --no-ff
+>>>>>>> dev
