@@ -1,4 +1,6 @@
 issue fixed bug
+dev update content
+
 first
 second file
 <<<<<<< HEAD
