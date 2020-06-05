@@ -4,4 +4,8 @@ second file
 master merge --no-ff
 =======
 dev merge --no-ff
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+dev fast forward
 >>>>>>> dev
