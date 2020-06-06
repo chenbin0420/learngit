@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 fixed issue
+=======
+dev update content finished
+fixed issue
+dev update content unfinished
+>>>>>>> dev
