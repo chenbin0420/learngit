@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 anoter devolper commit content
+=======
+git push origin dev in branch 
+feature1 add feature
+>>>>>>> 9e5406fdcef8cf2745d4fefae24e2dae06b2e5ad
 dev update content finished
 fixed issue
 dev update content unfinished
