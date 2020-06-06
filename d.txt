@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 dev lisi add content
+=======
+dev zhangsan git push origin dev
+dev zhangsan git checkout -b dev origin/dev
+dev zhangsan commit content
+anoter devolper commit content
+>>>>>>> 94ab5638e2396e32682878e9e4eebf855d178694
 git push origin dev in branch 
 feature1 add feature
 dev update content finished
